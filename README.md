@@ -5,7 +5,13 @@ This repository hosts the curated machine-readable dataset accompanying the revi
 > **Quantum-Enhanced Molecular Intelligence in Biomedical Engineering: A Comprehensive Review of AI-Driven Diagnostics, Drug Discovery, and Scalable Quantum Computing**  
 > **Authors:** Prof. Dr. Hafiz Md. Hasan Babu (Senior Member, IEEE; [ORCID: 0009-0003-2507-0400](https://orcid.org/0009-0003-2507-0400)) and Avishek Devnath ([ORCID: 0009-0000-2779-6713](https://orcid.org/0009-0000-2779-6713))  
 > **Affiliation:** Department of Computer Science and Engineering, University of Dhaka, Dhaka 1000, Bangladesh  
-> **Target Venue:** *IEEE Reviews in Biomedical Engineering* (RBME)
+> **Target Venue:** *IEEE Reviews in Biomedical Engineering* (RBME)  
+> **Zenodo DOI (v1.0.0):** [https://doi.org/10.5281/zenodo.24575558](https://doi.org/10.5281/zenodo.24575558)  
+> **All Versions DOI:** [https://doi.org/10.5281/zenodo.24575557](https://doi.org/10.5281/zenodo.24575557)
+
+### Citation
+
+> Babu, H. M. H., & Devnath, A. (2026). PRISMA 2020 Master Evidence Ledger and 4-Vector Risk-of-Bias Dataset (n=132): Quantum-Enhanced Molecular Intelligence in Biomedical Engineering (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24575558
 
 ---
 

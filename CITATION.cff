@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "PRISMA 2020 Master Evidence Ledger and 4-Vector Risk-of-Bias Dataset (n=132): Quantum-Enhanced Molecular Intelligence in Biomedical Engineering"
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Babu"
+    given-names: "Hafiz Md. Hasan"
+    affiliation: "Department of Computer Science and Engineering, University of Dhaka, Dhaka 1000, Bangladesh"
+    orcid: "https://orcid.org/0009-0003-2507-0400"
+    email: "hafizbabu@du.ac.bd"
+  - family-names: "Devnath"
+    given-names: "Avishek"
+    affiliation: "Department of Computer Science and Engineering, University of Dhaka, Dhaka 1000, Bangladesh"
+    orcid: "https://orcid.org/0009-0000-2779-6713"
+    email: "avishek-2022618432@cs.du.ac.bd"
+date-released: "2026-11-27"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/Avishekdevnath/quantum-biomedical-prisma-n132"
+keywords:
+  - quantum computing
+  - biomedical engineering
+  - PRISMA 2020
+  - variational quantum eigensolver
+  - quantum machine learning
+  - drug discovery
+  - risk of bias
